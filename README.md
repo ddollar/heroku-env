@@ -1,13 +1,5 @@
-# heroku-env
+# Deprecated
 
-## Installation
+This project is deprecated and is no longer being maintained.
 
-    $ heroku plugins:install http://github.com/ddollar/heroku-env.git
-
-## Usage
-
-    $ heroku env foreman start
-
-## Copyright
-
-MIT
+Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
